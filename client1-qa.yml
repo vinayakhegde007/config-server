@@ -2,4 +2,4 @@ build:
   version: "3.0"
 
 account:
-  message: "Config client - 1 - qa"
+  message: "Config client - 1 - qa webhook"
