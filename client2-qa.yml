@@ -1,0 +1,5 @@
+build:
+  version: "3.0"
+
+account:
+  message: "Config client - 2 - qa"
